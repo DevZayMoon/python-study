@@ -45,3 +45,6 @@ movies = {
   'SkyFall':2005,
   'Sexta Feira 13':2013
 }
+
+for key, value in movies.items():
+  print(key,value)
